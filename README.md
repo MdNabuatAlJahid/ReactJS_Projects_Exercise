@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 ### 1.The first project is "working with Inputs and Forms" using react components.
 ### 2. The second project is a "Tic Tac Toe" game.
 ### 3. the third project is a "Stack Todo (Multi Fuctional)".
-### The fourth project is a "Smart Poll App".
+### 4. The fourth project is a "Smart Poll App".
